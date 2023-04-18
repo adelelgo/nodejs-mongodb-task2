@@ -1,0 +1,7 @@
+npm init -y
+npm i mongodb ((((( V 4.15 ))))
+npm i mongoose
+
+npm i express
+npm i nodemon
+npm run dev
